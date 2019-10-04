@@ -1,0 +1,12 @@
+name: CommandOnAction
+version: 1.0.0
+description: Runs a command as the user, when the user interacts with a specific block
+author: lukacat100
+
+main: com.gmail.lukacat100.CommandOnAction.Main
+
+commands:
+  interactivecommands:
+    description: Creates blocks which run commands when interacted (either player interaction or redstone).
+    aliases: [interc, ic]
+    usage: Syntax error! (CommandOnAction)
